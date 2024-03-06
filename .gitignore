@@ -1,1 +1,4 @@
 .venvs
+*__pycache__
+postgres-data/*
+!postgres-data/.gitkeep
